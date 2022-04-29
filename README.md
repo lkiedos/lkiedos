@@ -2,7 +2,7 @@
 
 ## I'm a Student of Applied Computer Science!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Learn more!
 - ⚡ Fun fact: I love traveling and food
 
